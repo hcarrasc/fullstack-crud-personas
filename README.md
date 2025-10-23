@@ -73,3 +73,9 @@ docker compose down
 - Gestión de dependencias: npm
 - Build tool: Vite
 - Despliegue: Servido por Nginx en Docker
+
+## 🔹 Resultado esperado si levantas la aplicacion
+
+![Container running](images-readme/containers.png "Container running")
+
+![api swagger](images-readme/swagger-api.png "api swagger")
