@@ -1,5 +1,14 @@
 # 📝 CRUD Personas - fullstack demo project
 
+## 🔹 Acerca de este proyecto
+
+Desarrollado como desafio para proceso de postulacion para empresa HF Solutions - Previred. El proyecto consta de dos repositorios:
+
+- https://github.com/hcarrasc/backend-crud-personas
+- https://github.com/hcarrasc/frontend-crud-personas
+
+Cada repositorio tiene las indicaciones para levantarlos por separado. Adicionalmente se incluye este repositorio el cual permite levantar el proyecto completo en un solo contenedor de docker usando docker-compose
+
 ## 🔹 Pre-requisitos
 
 Antes de levantar el proyecto, asegúrate de que tu máquina tenga:
