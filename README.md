@@ -76,6 +76,6 @@ docker compose down
 
 ## 🔹 Resultado esperado si levantas la aplicacion
 
-![Container running](images-readme/containers.png "Container running")
+![Container running](https://github.com/hcarrasc/fullstack-crud-personas/blob/master/images-readme/containers.png "Container running")
 
-![api swagger](images-readme/swagger-api.png "api swagger")
+![api swagger](https://github.com/hcarrasc/fullstack-crud-personas/blob/master/images-readme/swagger-api.png "api swagger")
